@@ -1,4 +1,4 @@
-Adds invisible headgear to Arma 3
+Adds invisible headgear to Arma 3.
 
 
 Includes:
