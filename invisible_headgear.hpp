@@ -1,5 +1,6 @@
 class cfgWeapons
 {
+	//Vanilla
 	class HeadgearItem;
 	class H_HelmetSpecO_blk;
 	class bc036_invisible_assassin: H_HelmetSpecO_blk
@@ -333,6 +334,7 @@ class cfgWeapons
 			};
 		};
 	};
+	//Apex
 	class H_HelmetO_ViperSP_ghex_F;
 	class bc036_invisible_special_purpose: H_HelmetO_ViperSP_ghex_F
 	{

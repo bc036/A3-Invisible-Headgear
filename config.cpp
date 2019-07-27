@@ -5,6 +5,7 @@ class CfgPatches
 		units[]={};
 		weapons[]=
 		{
+			//Vanilla
 			"bc036_invisible_assassin",
 			"bc036_invisible_combat",
 			"bc036_invisible_crew",
@@ -15,6 +16,7 @@ class CfgPatches
 			"bc036_invisible_light_combat",
 			"bc036_invisible_pilot",
 			"bc036_invisible_protector",
+			//Apex
 			"bc036_invisible_special_purpose",
 			"bc036_invisible_stealth_combat"
 		};
