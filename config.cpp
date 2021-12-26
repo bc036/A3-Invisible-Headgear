@@ -31,4 +31,7 @@ class CfgPatches
 		requiredVersion=0.1;
 	};
 };
+class CfgWeapons
+{
 #include "invisible_headgear.hpp"
+};

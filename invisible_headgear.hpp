@@ -1,5 +1,3 @@
-class cfgWeapons
-{
 	//Vanilla
 	class HeadgearItem;
 	class H_HelmetSpecO_blk;
@@ -415,4 +413,3 @@ class cfgWeapons
 			};
 		};
 	};
-};
